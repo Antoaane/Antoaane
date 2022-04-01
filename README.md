@@ -1,16 +1,14 @@
-### Hi there 👋
+## ![Capture d’écran 2022-04-01 092603](https://user-images.githubusercontent.com/100697124/161218940-4bc915b5-e132-4c7b-b583-7e246efab5fd.jpg)
 
-<!--
-**Antoaane/Antoaane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 🙋‍♂️
+Hi, my name is Antoine and I am a student in the first year of BUT MMI at the IUT of Troyes. My choice of course in the second year will obviously be development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 
+ - 👁️ HTML / CSS 
+ - 💽 JavaScript 
+ - ⚙️ PHP / MySQL 
+
+## Contacts 
+ - antoinelauzis@gmail.com
+ - Antoaane#4818 on Discord
